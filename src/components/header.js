@@ -1,8 +1,9 @@
 import React from "react";
 
 const Header = () => {
+    
     return (
-        <div>Header</div>
+        <div>Welcome to the New React app</div>
     )
 }
 
